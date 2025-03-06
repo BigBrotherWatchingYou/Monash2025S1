@@ -9,7 +9,8 @@ Systems Planning Facilitators and the Success of
 South Korean Organisations
 
 these questions will be in final exam:
-
+ 
+ 
 
 
 ![alt text](image.png)
