@@ -1,7 +1,28 @@
 warning: for assignments you need to do further researches and make sure all what you're writing includes references
 
-Read this book:Nicholas Carr , IT doesnt matter
+## Read this book:Nicholas Carr , IT doesnt matter
+## Using artificial intelligence for quantifying strategic business-IT alignment 
 ## for assignment 1 you need to plugged in AI, its an AI stuff
+minimum 10 references(from the materials tutor provide)
+2000 words maximum(better be 1800)
+example:
+![alt text](image-47.png)
+check this file:
+![alt text](image-48.png)
+
+dont forget to make the assignmentmore like a research
+
+# Citation
+use apa 7 citation
+do not include author's first name
+
+
+pick 2 to 3 cases and pintch to important points 
+## Assignment 2
+introduce , clarly point out issues
+
+
+
 
 reference book:
 Carr, N. “IT Doesn’t Matter,” Harvard Business Review (81:5), 2003, pp. 41-50.
@@ -112,3 +133,78 @@ Commodity IT: Encompasses widely available and standardized technologies essenti
 
 • Since Carr’s article was published in 2003 do you think his arguments would still hold considering the technological changes in businesses?
 it is because the landscape of IT and business strategy has undoubtedly and continuously evolved.
+
+### notes: check your email and download the files
+
+
+### Resource-Based View(RBV)
+ultimate goal: idnetify and leverage unique , valuable resources that competitiors cannot easily copy, leading to sustained competitive advantage.
+Tangible : Physical assets
+Intangible: Brand, patents, culture etc.
+Capabilities: Skills, processes, knowledge etc
+
+### VRIO Model
+V-Valuable : Does the resource/capability help the organisation exploit opportunities or neutralise threats?
+Strategic Outcome: Competitive parity
+
+R-Rare: Is it possessed by few or no competitors?
+Strategic Outcome: Temporary advantage
+
+I-Inimitable: Is it costly or difficult for competitors to imitate?
+Strategic Outcome: Likely sustained advantage
+
+O- Organisation: is the organisation organised to capture value from the resource/capability?
+Strategic Outcome: Sustained advantage 
+
+# Assignment 1: if you look of reports from companies, go to for example woolworth --investors---reports
+you can also referring Balances scorecard from week4
+why using AI(AI should be include in assignment)
+
+week4
+![alt text](image-37.png)
+
+### final exam: relationship between enablers and inhibitors
+![alt text](image-38.png)
+### Strategic alignment focuses
+![alt text](image-40.png)
+### Strategic alignment maturity levels
+![alt text](image-39.png)
+(question in final exam: why most of the companies stay in level 3 and other why at level 5)
+
+
+### this is used in many organisations
+![alt text](image-41.png)
+give answers about customer, financial, internal business processes and learning and growth.
+![alt text](image-42.png)
+1. Financial
+2. Customer (stakeholders)
+3. Internal business processes
+4. Learning and Growth
+
+
+### corporate governance
+![alt text](image-43.png)
+pinball
+thats what most of the large organisations following
+
+### IT Governance
+![alt text](image-44.png)
+# final exam questions:
+IT governance focused areas:
+• Value delivery
+• Strategic alignment
+• Performance measurement
+• Resource management
+• Risk management
+
+### final exam reference:
+![alt text](image-45.png)
+
+
+# BSC:
+Balanced Scorecard (BSC) can provide a balanced presentation of both financial and
+operational measures (customer, internal business processes, and learning & growth).
+• BSC looks forward, not backward. It is centered on vision and strategy.
+• BSC can be adapted for IT governance, for example, by focusing on corporate
+contribution, customer/ user/ stakeholders, operational excellence, and future orientation. 
+![alt text](image-46.png)
