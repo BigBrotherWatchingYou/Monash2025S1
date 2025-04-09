@@ -32,3 +32,30 @@ ped <- ped_wide %>%
 ## Motion Charts
 its for data visualisation
 learn it 
+
+# week4 
+https://learning.monash.edu/mod/page/view.php?id=3760600
+
+search for books:
+grep "Mad Tea-Party" book*.txt
+$ grep "Author:" book*.txt
+$ for i in {1..10}; do grep "Author:" book${i}.txt; done
+
+for i in {1..10}; do wc -w book${i}.txt; done
+
+
+## ggplot
+geom_boxplot()
+
+## cygwin terminal
+And then change directory to the books directory:
+
+cd tutorial_data/books
+We'll now have a look at "less", which is a very simple program for viewing (but not editing) text files.
+
+Practice 2 : In which chapter did Alice go to a "Mad Tea-Party"?
+
+less book1.txt
+Practice 4: Now try to display the Author names for books 1 to 5 only? (Hint: Use bracketed wildcard characters)
+
+

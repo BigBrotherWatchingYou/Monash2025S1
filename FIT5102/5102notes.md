@@ -208,3 +208,53 @@ operational measures (customer, internal business processes, and learning & grow
 • BSC can be adapted for IT governance, for example, by focusing on corporate
 contribution, customer/ user/ stakeholders, operational excellence, and future orientation. 
 ![alt text](image-46.png)
+
+
+# week5 
+## KM
+definition
+### knowledge management
+![alt text](image-49.png)
+![alt text](image-50.png)
+
+### data information knowledge
+![alt text](image-51.png)
+![alt text](image-52.png)
+
+### knowledge convert
+![alt text](image-53.png)
+
+### value of knowledge
+![alt text](image-54.png)
+
+### knowledege type
+![alt text](image-55.png)
+
+### knowledge management tools
+![alt text](image-56.png)
+
+### practice (there will be one in final exam, and you need to describe why)
+For each of the following, is it
+a) Declarative or Procedural
+b) Explicit or Tacit
+c) General, Contextually Specific or Technically Specific
+Basic knowledge of the steps to take in deciding whether to buy a company’s stock----------Procedural knowledge
+A book describing the factors to consider when deciding whether to buy a company's----------Tacit Knowledge
+stock, e.g. price to learning ratio, dividends, etc.
+A book describing steps to take in deciding whether to buy a company’s stock
+FIT5102, 2025 - IT Strategy & Governance
+Knowledge of the major factors to consider when deciding whether to buy a company’s
+stock
+### A company document identifying the sequence of actions a consultant’s team manager should take when requesting senior management to replace a team member having problems with the project they have been assigned to---final exam
+
+### A company document identifying the circumstances under which a consultant’s team managershould consider replacing a team member having problems with the project they have been assigned to.---final exam
+A HR manager’s knowledge of factorsto consider in motivating an employer in a particular
+company
+A HR manager’s knowledge of steps to take in motivating an employer in a particular
+company
+A manual describing how to change computer operating system settings to achieved
+desired performance outcomes
+A manual describing factors to consider in configuring a computer to achieve desired
+performance outcomes
+A technician’s knowledge of the sequence of steps to take in diagnosing a computer fault
+A technician’s knowledge of the things to look for in diagnosing a computer fault.
