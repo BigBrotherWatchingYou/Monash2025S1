@@ -258,3 +258,18 @@ A manual describing factors to consider in configuring a computer to achieve des
 performance outcomes
 A technician’s knowledge of the sequence of steps to take in diagnosing a computer fault
 A technician’s knowledge of the things to look for in diagnosing a computer fault.
+
+
+# week6
+![alt text](image-57.png)
+![alt text](image-58.png)
+![alt text](image-59.png)
+![alt text](image-60.png)
+## intellectual property
+![alt text](image-61.png)
+![alt text](image-62.png)
+## knowledge management foundation
+![alt text](image-63.png)
+![alt text](image-64.png)
+## knowledge management process
+![alt text](image-65.png)
