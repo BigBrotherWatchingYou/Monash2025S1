@@ -403,3 +403,10 @@ for(j in 1:length(fsub$airline)) {
 So what can/can’t you do with ggmap? 
 
 Compare these R tools with other options, e.g., GIS tools, also Tableau Public, Google FusionTables.
+
+
+# DVP assignment
+![alt text](image-24.png)
+you can only use R(shiny ) or D3.js
+### sheet 1 : idea sheet
+![alt text](image-25.png)

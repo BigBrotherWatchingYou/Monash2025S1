@@ -10,6 +10,9 @@ example:
 check this file:
 ![alt text](image-48.png)
 
+# report citation
+https://guides.lib.monash.edu/apa-7/government-business-reports
+
 dont forget to make the assignmentmore like a research
 
 # Citation
@@ -31,12 +34,13 @@ tips when choosing references：
 authors more than 3
 minimum 8 references, usually more than 10
 
-how to write in the final exam:
+# how to write in the final exam:
 must include key point
 if you dont know how to write:
 search for this thesis on google scholar: The Relationship between Strategic Information
 Systems Planning Facilitators and the Success of
 South Korean Organisations
+## in the final exam you need to read an article and answer 8-12 questions.
 
 ### in final exam there will be knowledge outside the course
 
@@ -268,8 +272,50 @@ A technician’s knowledge of the things to look for in diagnosing a computer fa
 ## intellectual property
 ![alt text](image-61.png)
 ![alt text](image-62.png)
+
+## KM foundations
+![alt text](image-67.png)
 ## knowledge management foundation
 ![alt text](image-63.png)
 ![alt text](image-64.png)
 ## knowledge management process
 ![alt text](image-65.png)
+## km solutions
+![alt text](image-66.png)
+
+
+In summary, KM, IC and IT governance are interwined with KM driving IC development and IT governance providing the necessary
+infrastructure and security for effective knowledge management.
+
+## Value of Tacit and Explicit knowledge
+
+
+# governance vs Management
+file: Week 7 - Key takeaways(The concept...)
+
+
+# IT/IS Strategy report
+## 1. what do you want to see from an IS/IT strategy Report?
+
+
+# week8
+## DVP warning
+![alt text](image-68.png)
+![alt text](image-69.png)
+
+
+# week9
+Strategic Drift
+![alt text](image-70.png)
+Risk response Strategy
+![alt text](image-71.png)
+enterprise governance
+![alt text](image-72.png)
+
+### Enterprise governance vs Corporate governance
+![alt text](image-73.png)
+
+if you dont know how to answer question in final exam, answer : Aligmnet, knowledge sharing, communications
+
+
+watch Tutorial 9: activity 9. this will be quite similar to the final exam question.
