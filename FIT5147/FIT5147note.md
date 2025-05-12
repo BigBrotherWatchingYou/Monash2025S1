@@ -410,3 +410,19 @@ Compare these R tools with other options, e.g., GIS tools, also Tableau Public, 
 you can only use R(shiny ) or D3.js
 ### sheet 1 : idea sheet
 ![alt text](image-25.png)
+![alt text](image-30.png)
+### sheet 2.3.4:![alt text](image-31.png)
+### sheet 5:final visualisation
+![alt text](image-32.png)
+### PE3
+![alt text](image-26.png)
+
+![alt text](image-27.png)
+
+![alt text](image-28.png)
+
+![alt text](image-29.png)
+
+### make sure you already went through the coding in week9
+
+

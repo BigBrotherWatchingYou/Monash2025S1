@@ -319,3 +319,8 @@ if you dont know how to answer question in final exam, answer : Aligmnet, knowle
 
 
 watch Tutorial 9: activity 9. this will be quite similar to the final exam question.
+
+# policy: data goverance
+
+## Assignment 2
+you must use materials from week7 and week 9
